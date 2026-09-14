@@ -3,6 +3,7 @@ __pycache__/
 .pytest_cache/
 *.py[cod]
 *.egg-info/
+.env
 
 old_newtrade
 plan
